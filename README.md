@@ -10,8 +10,8 @@ class Programmer
 
 <div align="center">
   <a href="https://github.com/jcddsj01">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=jcddsj01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcddsj01&layout=compact&langs_count=7&theme=dark"/>
+  <img height="153em" src="https://github-readme-stats.vercel.app/api?username=jcddsj01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="153em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcddsj01&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
