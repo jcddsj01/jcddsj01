@@ -10,8 +10,8 @@ class Programmer
 
 <div align="center">
   <a href="https://github.com/jcddsj01">
-  <img height="180em" width="440em" src="https://github-readme-stats.vercel.app/api?username=jcddsj01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcddsj01&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=jcddsj01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcddsj01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -28,7 +28,7 @@ class Programmer
   
   <br>
   
-  <img alt="GIF" src="https://media-exp1.licdn.com/dms/image/C4E22AQG6YT8vCLpgmQ/feedshare-shrink_2048_1536/0/1649168416546?e=2147483647&v=beta&t=sEqiKTXIZwl_apch5oy1gPIi10FGvdQ8xuZNx0xgC5M" width="512px" height="384px" />
+  <img alt="GIF" src="https://media-exp1.licdn.com/dms/image/C4E22AQG6YT8vCLpgmQ/feedshare-shrink_2048_1536/0/1649168416546?e=2147483647&v=beta&t=sEqiKTXIZwl_apch5oy1gPIi10FGvdQ8xuZNx0xgC5M" width="470px" height="370px" />
 </div><br>
 
 ```ruby 
