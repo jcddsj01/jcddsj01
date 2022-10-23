@@ -1,4 +1,4 @@
-# Olá, eu sou José Carlos
+# 👋 &nbsp;Olá, eu sou José Carlos
 
 ```ruby 
 class Programmer
@@ -30,6 +30,13 @@ class Programmer
   
   <img alt="GIF" src="https://media-exp1.licdn.com/dms/image/C4E22AQG6YT8vCLpgmQ/feedshare-shrink_2048_1536/0/1649168416546?e=2147483647&v=beta&t=sEqiKTXIZwl_apch5oy1gPIi10FGvdQ8xuZNx0xgC5M" width="470px" height="370px" />
 </div><br>
+	
+<div align="center">
+	<a href = "mailto:jcddsj01@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jose-carlos-703821254" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+	
+<br>
 
 ```ruby 
 	end 
