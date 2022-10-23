@@ -1,4 +1,4 @@
-# 👋 &nbsp;Olá, eu sou José Carlos
+# 👋 &nbsp;Olá, eu sou o José Carlos
 
 ```ruby 
 class Programmer
