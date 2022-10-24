@@ -28,7 +28,7 @@ class Programmer
   
   <br>
   
-  <img alt="GIF" src="https://media-exp1.licdn.com/dms/image/C4E22AQG6YT8vCLpgmQ/feedshare-shrink_2048_1536/0/1649168416546?e=2147483647&v=beta&t=sEqiKTXIZwl_apch5oy1gPIi10FGvdQ8xuZNx0xgC5M" width="400em" height="230em" />
+  <img alt="GIF" src="https://media-exp1.licdn.com/dms/image/C4E22AQG6YT8vCLpgmQ/feedshare-shrink_2048_1536/0/1649168416546?e=2147483647&v=beta&t=sEqiKTXIZwl_apch5oy1gPIi10FGvdQ8xuZNx0xgC5M" width="420em" height="240em" />
 </div><br>
 	
 <div align="center">
