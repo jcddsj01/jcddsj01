@@ -19,6 +19,11 @@
   <img alt="GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div>
 
+## Soft Skills:
+<div align="center">
+<h3>Communication | Time Management | Troubleshooting | Teamwork | Flexibility and Adaptability | Positive attitude</h3>
+</div>
+
 ## More about me:
 <div align="center">
 	<a href = "mailto:josecarlosjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
