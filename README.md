@@ -45,6 +45,6 @@ Despite having no professional experience in companies, I sought a solid knowled
 ## Contact me:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jose-carlos-703821254"><img width="50" height="50" src="https://img.icons8.com/fluency/50/linkedin.png" alt="linkedin"/></a>&ensp;
-  <a href="mailto:jcddsj01@outlook.com"><img width="50" height="50" src="https://img.icons8.com/fluency/50/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/></a>
+	<a href="https://www.linkedin.com/in/jose-carlos-703821254"><img width="50" height="50" src="https://img.icons8.com/fluency/50/linkedin.png" alt="linkedin"/></a>&ensp;
+	<a href="mailto:jcddsj01@outlook.com"><img width="50" height="50" src="https://img.icons8.com/fluency/50/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/></a>
 </div>
