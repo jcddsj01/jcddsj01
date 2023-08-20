@@ -35,6 +35,6 @@
 
 ## Contact me:
 <div align="center">
-	<a href = "mailto:josecarlosjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jose-carlos-703821254"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jose-carlos-703821254"><img width="50" height="50" src="https://img.icons8.com/fluency/50/linkedin.png" alt="linkedin"/></a>&ensp;
+  <a href="mailto:jcddsj01@outlook.com"><img width="50" height="50" src="https://img.icons8.com/fluency/50/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/></a>
 </div>
