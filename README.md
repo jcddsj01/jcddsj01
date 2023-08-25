@@ -4,7 +4,10 @@ To begin with, let me tell you a little ABOUT ME. <br>
 I'm a PROGRAMMING ENTHUSIAST and I'm always looking for new CHALLENGES to expand my knowledge.
 I dedicate part of my time to learning new TECHNOLOGIES and developing PERSONAL PROJECTS to improve my SKILLS.
 
-Despite having no professional experience in companies, I sought a solid knowledge base through education and self-taught learning. I completed online courses, attended workshops and studied tutorials to master the skills I needed as a programmer.<br><br>
+Despite having no professional experience in companies, I sought a solid knowledge base through education and self-taught learning. I completed online courses, attended workshops and studied tutorials to master the skills I needed as a programmer.
+
+I am in constant search for professional growth.<br>
+I have a genuine interest in technology, games, sports and the financial market.<br><br>
 
 <div align="center">
   <a href="https://github.com/jcddsj01">
