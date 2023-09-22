@@ -11,8 +11,8 @@ I have a genuine interest in technology, games, sports and the financial market.
 
 <div align="center">
   <a href="https://github.com/jcddsj01">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jcddsj01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&ensp;
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcddsj01&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jcddsj01&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>&ensp;
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcddsj01&layout=compact&langs_count=7&theme=white"/>
 </div>
 
 ## Hard Skills:
