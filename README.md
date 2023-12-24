@@ -1,4 +1,6 @@
-## Hello, I'm José Carlos
+# Hello, I'm José Carlos
+
+<p>Tudo posso naquele que me fortalece. Filipenses 4,13 🙏🏻</p>
 
 To begin with, let me tell you a little ABOUT ME. <br>
 I'm a PROGRAMMING ENTHUSIAST and I'm always looking for new CHALLENGES to expand my knowledge.
