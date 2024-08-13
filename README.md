@@ -20,27 +20,27 @@ I have a genuine interest in technology, games, sports and the financial market.
 ## Hard Skills:
 
 <div align="center"><br>
-	<img title="HTML5" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&emsp;
-	<img title="CSS3" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&emsp;
+	<img title="HTML5" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">&emsp;
+	<img title="CSS3" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg">&emsp;
 	<img title="Javascript" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&emsp;
-	<img title="Typescript" alt="Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&emsp;
-	<img title="React" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&emsp; <br><br>
-	<img title="NodeJS" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&emsp;
-	<img title="PostgreSQL" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+	<img title="React" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />&emsp;
+	<img title="NodeJS" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&emsp;
+	<br><br>
+	<img title="Python" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />&emsp;
+	<img title="Django" alt="Django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />&emsp;
+	<img title="PostgreSQL" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />&emsp;
 	<img title="MongoDB" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&emsp;
-	<img title="GIT" alt="GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />&emsp;
+	<img title="GIT" alt="GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div>
 
 ## Soft Skills:
 
 <div align="left" >
-<h3>&emsp;&#149; CommunicationTime<br>
-	&emsp;&#149; Management<br>
+<h3>&emsp;&#149; Teamwork<br>
 	&emsp;&#149; Troubleshooting<br>
-	&emsp;&#149; Teamwork<br>
-	&emsp;&#149; Flexibility<br>
-	&emsp;&#149; Adaptability<br>
-	&emsp;&#149; Positive attitude</h3>
+	&emsp;&#149; Adaptability and Flexibility<br>
+	&emsp;&#149; Effective communicationk<br>
+	&emsp;&#149; Self-learning<br>
 </div>
 
 ## Contact me:
