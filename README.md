@@ -16,7 +16,7 @@ Embora ainda não tenha experiência em empresas, compartilho meu conhecimento, 
 	<img title="React" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 	<br><br>
         <img title="NodeJS" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>&emsp;
-	<img title="Python" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>&emsp;
+	<img title="Python" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>&emsp;
  	<img title="MySQL" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>&emsp;
         <img title="MongoDB" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>&emsp;
 	<img title="GIT" alt="GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
