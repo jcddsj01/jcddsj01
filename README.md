@@ -30,9 +30,9 @@ Estou em constante busca pelo crescimento profissional.<br>
 Tenho interesse em tecnologia, leitura, games, natureza, esportes e mercado financeiro.
 
 ## Contate-me:<br>
-Linkedin: [https://github.com/jcddsj01](https://www.linkedin.com/in/jose-carlos-703821254/)<br>
+Linkedin: https://www.linkedin.com/in/jose-carlos-703821254/<br>
 Email: jcddsj01@outlook.com<br>
-Portfólio: Estou desenvolvendo um novo projeto!
+Portfólio: https://new-portfolio-pied-zeta.vercel.app/
 
 <br>
 
