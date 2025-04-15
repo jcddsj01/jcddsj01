@@ -1,39 +1,66 @@
-# Olá e bem-vindo(a).
-
 Tudo posso naquele que me fortalece. Filipenses 4,13
 
-Sou JOSÉ CARLOS, um Desenvolvedor FULL-STACK que gosta muito de programação e desenvolvimento de software.<br>
+Olá e bem-vindo(a).
+Sou JOSÉ CARLOS, um Desenvolvedor FULL-STACK que gosta muito de programação e desenvolvimento de software.
 Embora ainda não tenha experiência em empresas, compartilho meu conhecimento, projetos e habilidades adquiridas como desenvolvedor.
+Estou em busca de uma oportunidade para aplicar minhas competências e crescer profissionalmente.
 
-## Hard Skills:
+## Hard Skills
 
 <div align="center"><br>
-	<img title="HTML5" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">&emsp;
-	<img title="CSS3" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg">&emsp;
-	<img title="TailwindCSS" alt="TailwindCSS" height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>&emsp;
-	<img title="Javascript" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&emsp;
-        <img title="TypeScript" alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>&emsp;
-	<img title="React" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-	<br><br>
-        <img title="NodeJS" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>&emsp;
-	<img title="Python" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>&emsp;
- 	<img title="MySQL" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>&emsp;
-        <img title="MongoDB" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>&emsp;
-	<img title="GIT" alt="GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+	<h3>Front-End</h3>
+	<img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=white">
+	<img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=white">
+	<img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=white">
+	<img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=white">
+	<img src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=white">
 </div>
 
-## Soft Skills:<br>
-Trabalho em Equipe - Resolução de Problemas - Aprendizado Contínuo - Capacidade de adaptação - Gestão de Tempo
+<div align="center"><br>
+	<h3>Back-End</h3>
+	<img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=white">
+	<img src="https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=%235FA04E&labelColor=white">
+	<img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=white">
+</div>
 
-## Pessoal:<br>
+<div align="center"><br>
+	<h3>Banco de Dados</h3>
+	<img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=white">
+	<img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=white">
+</div>
+
+<div align="center"><br>
+	<h3>Controle de Versão</h3>
+	<img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=white">
+</div>
+
+<div align="center"><br>
+	<h3>IDEs</h3>
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-%230078D4?style=for-the-badge&logoColor=%230078D4&labelColor=white">
+	<img src="https://img.shields.io/badge/pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=%23000000&labelColor=white">
+</div>
+
+<div align="center"><br>
+	<h3>Sistemas Operacionais</h3>
+	<img src="https://img.shields.io/badge/Microsoft_Windows-%230078D4?style=for-the-badge&logoColor=%230078D4&labelColor=white">
+	<img src="https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=%23FCC624&labelColor=white">
+</div>
+
+## Soft Skills<br>
+- Trabalho em Equipe
+- Resolução de Problemas
+- Aprendizado Contínuo
+- Capacidade de adaptação
+- Gestão de Tempo
+
+## Pessoal<br>
 Estou em constante busca pelo crescimento profissional.<br>
 Tenho interesse em tecnologia, leitura, games, natureza, esportes e mercado financeiro.
 
-## Contate-me:<br>
-Linkedin: https://www.linkedin.com/in/jose-carlos-703821254/<br>
-Email: jcddsj01@outlook.com<br>
-Portfólio: https://new-portfolio-pied-zeta.vercel.app/
+## Contato<br>
 
+<a href="https://www.linkedin.com/in/jose-carlos-703821254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="jcddsj01@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23506365?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 <br>
 
 <div align="center">
