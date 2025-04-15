@@ -1,9 +1,14 @@
+## Pessoal<br>
+
 Tudo posso naquele que me fortalece. Filipenses 4,13
 
-Olá e bem-vindo(a).
-Sou JOSÉ CARLOS, um Desenvolvedor FULL-STACK que gosta muito de programação e desenvolvimento de software.
-Embora ainda não tenha experiência em empresas, compartilho meu conhecimento, projetos e habilidades adquiridas como desenvolvedor.
-Estou em busca de uma oportunidade para aplicar minhas competências e crescer profissionalmente.
+Olá, seja bem-vindo(a) ao meu Perfil do GitHub.<br>
+Sou, José Carlos um Desenvolvedor Full-Stack que gosta muito de programação e desenvolvimento de software.<br>
+Embora ainda não tenha experiência em empresas, compartilho meu conhecimento, projetos e habilidades adquiridas como desenvolvedor.<br>
+Estou em busca de uma oportunidade para aplicar minhas competências e crescer profissionalmente.<br>
+Tenho grande interesse em participar de projetos colaborativos para desenvolver comunicação, resolução de problemas e trabalho em equipe.<br>
+Fique à vontade para explorar meus projetos e acompanhar minha evolução no desenvolvimento de software.<br>
+Tenho interesse em tecnologia, leitura, games, natureza, esportes e do mercado financeiro.
 
 ## Hard Skills
 
@@ -52,10 +57,6 @@ Estou em busca de uma oportunidade para aplicar minhas competências e crescer p
 - Aprendizado Contínuo
 - Capacidade de adaptação
 - Gestão de Tempo
-
-## Pessoal<br>
-Estou em constante busca pelo crescimento profissional.<br>
-Tenho interesse em tecnologia, leitura, games, natureza, esportes e mercado financeiro.
 
 ## Contato<br>
 
