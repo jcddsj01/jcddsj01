@@ -62,7 +62,7 @@ Tenho interesse em tecnologia, leitura, games, natureza, esportes e do mercado f
 
 <a href="https://www.linkedin.com/in/jose-carlos-703821254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="jcddsj01@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23506365?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/jcddsj01">
